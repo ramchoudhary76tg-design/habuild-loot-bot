@@ -19,7 +19,7 @@ logging.basicConfig(
 )
 
 # ========== YOUR DETAILS ==========
-TOKEN = "8841593698:AAFucNhM325wguWpdk-lFK6XI6tptwVzJIg"
+TOKEN = "8853806673:AAFVyFRMbBb--p8utUKxGPImFSCRnd6AAt8"
 ADMIN_ID = 8403468945
 HABIT_REF = "adnan94901186"
 # ==================================
